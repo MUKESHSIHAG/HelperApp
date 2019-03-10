@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="@dimen/fab_margin"
+    tools:context=".AboutActivity">
+
+    <TextView
+        android:id="@+id/works_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="
+
+
+
+
+ This is a women's secutiy app made by team JARVIS in HackonHills 4.0,2019 organised by AppTeam of NIT Hamirpur
+
+This app primarily focuses on the safety of women that is whenever a person/not only a woman is in some sort of danger he or she can instantly send his/her location with an SOS message to the two registered numbers and a call will be sent to the first number that will be reigstered and all the work that needs to be done is only three taps to the Lock Button.That's it."
+        android:textSize="18sp"
+        android:textColor="@color/colorPrimaryDark"
+        android:textStyle="bold"/>
+
+
+
+
+
+
+</RelativeLayout>
